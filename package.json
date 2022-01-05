@@ -7,11 +7,15 @@
   },
   "dependencies": {
     "@apollo/client": "^3.0.2",
+    "@emotion/react": "11.7.1",
+    "@emotion/styled": "11.6.0",
+    "@mui/material": "5.2.7",
     "apollo-server-micro": "^2.14.2",
     "graphql": "^14.0.2",
     "next": "latest",
     "prop-types": "^15.6.2",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-dom": "^17.0.2",
+    "styled-components": "^5.3.3"
   }
 }

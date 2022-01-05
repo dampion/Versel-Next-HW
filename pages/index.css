@@ -1,0 +1,16 @@
+body {
+    background-color: #000;
+}
+
+.todo {
+    position: relative;
+    width: 200px;
+}
+
+.todo input {
+    width: 200px;
+    height: 40px;
+    line-height: 40px;
+}
+
+.todo {}
